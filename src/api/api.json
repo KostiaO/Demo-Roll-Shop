@@ -1,0 +1,16 @@
+[
+    {
+        "imgName": "california-tempura", 
+        "name": "Филадельфия хит ролл",
+        "amount": 6,
+        "weight": 180,
+        "price": 300
+    },
+    {
+        "imgName": "zapech-california",
+        "name": "Калифорния темпура",
+        "amount": 6,
+        "weight": 205,
+        "price": 250
+    }
+]
