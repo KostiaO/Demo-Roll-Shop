@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Demo-Roll-Shop/static/css/main.d6a980a8.css",
+    "main.js": "/Demo-Roll-Shop/static/js/main.e76bfda8.js",
+    "index.html": "/Demo-Roll-Shop/index.html",
+    "main.d6a980a8.css.map": "/Demo-Roll-Shop/static/css/main.d6a980a8.css.map",
+    "main.e76bfda8.js.map": "/Demo-Roll-Shop/static/js/main.e76bfda8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6a980a8.css",
+    "static/js/main.e76bfda8.js"
+  ]
+}
